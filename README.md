@@ -4,10 +4,10 @@ Virtual Training and Readiness (T&amp;R) is a growing priority for the U.S. Depa
 ![Screen shot](https://github.com/185SE14THST/ng-military-psych-training-readiness/blob/master/sample.jpg "Sample")
 
 This repo contains the samples that demonstrate devilering 'training modules' to the United States military branch workers. With further development the sample may show:
-* A list of psycological or training modules.
-* A scoring algorithm for instant performance feedback.
-* Internal credential exchange for secure access systems (i.e., CAC)
-* SCORM compliance integration
+* A list of psycological or training modules using a NoSQL-backend called via REST API.
+* A scoring algorithm for instant performance feedback displayed using Google Charts.
+* Internal credential exchange for secure access systems (i.e., CAC).
+* SCORM compliance integration (i.e., BlackBoard).
 
 > **Note:** If you are unfamiliar with Git and GitHub, you can download the entire collection as a 
 > [ZIP file](https://github.com/185SE14THST/ng-military-psych-training-readiness/archive/master.zip), but be 
@@ -27,12 +27,12 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 ## Open source dependency lists
 The following technologies were used to develope this sample:
-* [Microsoft Azure](https://azure.microsoft.com/en-us/).
-* [CentOS 7 x86_64 minimal](https://www.centos.org/).
-* [Visual Studio Code version 1.11](https://code.visualstudio.com/).
-* [Bootstrap v4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/).
-* [Angular v4.0](https://angular.io/).
-* [Node.js v6.10.2 LTS](http://nodejs.com/).
+* [Microsoft Azure](https://azure.microsoft.com/en-us/)
+* [CentOS 7 x86_64 minimal](https://www.centos.org/)
+* [Visual Studio Code version 1.11](https://code.visualstudio.com/)
+* [Bootstrap v4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
+* [Angular v4.0](https://angular.io/)
+* [Node.js v6.10.2 LTS](http://nodejs.com/)
 
 ## License
 
