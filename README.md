@@ -1,7 +1,7 @@
 # ng-military-psych-training-readiness
 Training and Readiness (T&amp;R) is a growing priority for the U.S. Department of Defense
 
-![Screen shot](../../sample.jpg "Sample")
+![Screen shot](https://github.com/185SE14THST/ng-military-psych-training-readiness/blob/master/sample.jpg "Sample")
 
 This repo contains the samples that demonstrate Angular (v4x) for the purposes of devilering 'training modules excersices' to the United States military branches. These code samples were created with the Angular v4 and Bootstrap v4 templates.
 
