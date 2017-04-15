@@ -39,10 +39,11 @@ The following technologies were used to develope this sample:
 
 ## License
 
-Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright (c) JP. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) License.
 
+## Contact for collaboration
 **Project Managers:** If you are a project manager or responsible for hiring contractors and want to collaborate on a similar project or recieve a remote demonstration contact the author of this sample.
 
 
