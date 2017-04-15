@@ -1,0 +1,7 @@
+.demo {
+	border-radius: 0px;
+	background: linear-gradient( rgba(20,20,20, .5), rgba(20,20,20, .5)), url('background.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	color: lightgrey;
+}
