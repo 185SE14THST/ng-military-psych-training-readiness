@@ -33,6 +33,9 @@ The following technologies were used to develope this sample:
 * [Bootstrap v4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
 * [Angular v4.0](https://angular.io/)
 * [Node.js v6.10.2 LTS](http://nodejs.com/)
+* [Syntevo SMartGit 17.0.3](http://www.syntevo.com/smartgit/)
+* [Oracle VirtualBox 5.1](https://www.virtualbox.org/)
+
 
 ## License
 
