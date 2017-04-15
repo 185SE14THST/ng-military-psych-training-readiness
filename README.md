@@ -3,7 +3,11 @@ Virtual Training and Readiness (T&amp;R) is a growing priority for the U.S. Depa
 
 ![Screen shot](https://github.com/185SE14THST/ng-military-psych-training-readiness/blob/master/sample.jpg "Sample")
 
-This repo contains the samples that demonstrate Angular (v4x) for the purposes of devilering 'training modules excersices' to the United States military branches. These code samples were created with the Angular v4 and Bootstrap v4 templates.
+This repo contains the samples that demonstrate devilering 'training modules' to the United States military branch workers. With further development the sample may show:
+* A list of psycological or training modules.
+* A scoring algorithm for instant performance feedback.
+* Internal credential exchange for secure access systems (i.e., CAC)
+* SCORM compliance integration
 
 > **Note:** If you are unfamiliar with Git and GitHub, you can download the entire collection as a 
 > [ZIP file](https://github.com/185SE14THST/ng-military-psych-training-readiness/archive/master.zip), but be 
@@ -22,11 +26,20 @@ The easiest way to use these samples without using Git is to download the zip fi
 [Get a free copy of Visual Studio Code with support for building Angular apps](https://code.visualstudio.com/download)
 
 ## Open source dependency lists
-The following technologies were used in this sample:
+The following technologies were used to develope this sample:
+* [Microsoft Azure](https://azure.microsoft.com/en-us/).
+* [CentOS 7 x86_64 minimal](https://www.centos.org/).
+* [Visual Studio Code version 1.11](https://code.visualstudio.com/).
 * [Bootstrap v4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/).
+* [Angular v4.0](https://angular.io/).
+* [Node.js v6.10.2 LTS](http://nodejs.com/).
 
+## License
 
+Copyright (c) Microsoft Corporation. All rights reserved.
 
-**Reminder:** If you unzip individual samples, they will not build due to references to other portions of the ZIP file that were not unzipped. You must unzip the entire archive if you intend to build the samples.
+Licensed under the [MIT](LICENSE.txt) License.
+
+**Project Managers:** If you are a project manager or responsible for hiring contractors and want to collaborate on a similar project or recieve a remote demonstration contact the author of this sample.
 
 
