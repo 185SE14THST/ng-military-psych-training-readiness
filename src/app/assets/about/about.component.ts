@@ -18,3 +18,4 @@ export class AboutComponent implements OnInit {
        this.switch4Number = Math.round(Math.random());
        console.log( this.switch1Number + ":" + this.switch2Number + ":" + this.switch3Number + ":" + this.switch4Number );
    }
+}
