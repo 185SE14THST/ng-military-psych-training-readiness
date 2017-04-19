@@ -1,6 +1,6 @@
 # ng-military-psych-training-readiness
 Virtual Training and Readiness (T&amp;R) is a growing priority for the U.S. Department of Defense due to bugetary restrictions.
-> **Warning:** This sample is not meant for production. It serves as a rough draft or prof of concept. 
+> **Warning:** This sample is not meant for production. It serves as a rough draft or proof of concept. 
 > Code syntax, formatting, comments, free typose and flagrant misuse of CSS may be offensive to the senses.
 
 ![Screen shot](https://github.com/185SE14THST/ng-military-psych-training-readiness/blob/master/sample.jpg "Sample #1")
